@@ -1,8 +1,8 @@
-var a = 10;
-var b = 30;
-var c = 20;
+var a = ;
+var b = ;
+var c = ;
 
-if(a > c && a > b){
+if(a > b && a > c){
     console.log(a*=10)
     if (c > b){
         console.log(c*=5)
